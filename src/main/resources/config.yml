@@ -1,0 +1,5 @@
+mongo-uri: ''
+mongo-database: 'players'
+mongo-collection: 'quests'
+
+command-on-completion: 'broadcast {player} completed a quest!'

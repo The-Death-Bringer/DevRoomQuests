@@ -1,0 +1,4 @@
+name: DevRoomQuests
+version: '${version}'
+main: me.dthb.drq.DevRoomQuests
+api-version: 1.16
